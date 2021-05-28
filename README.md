@@ -1,5 +1,3 @@
-# myprojects
-
-## editing the file
+myprojects
 
 Its a markdown file in this repository.
